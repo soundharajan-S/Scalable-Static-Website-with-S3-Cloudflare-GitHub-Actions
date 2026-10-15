@@ -31,11 +31,12 @@ Developer Push -> GitHub (main) -> Actions -> S3 Sync -> Cloudflare CNAME + Purg
 6. **Live:** Verified https://static.awsproject.in with SSL + auto-deploy
 
 ## 📸 Screenshots
-![Live Website](Live%20website.png)
-![S3 Bucket](S3%20bucket.png)
-![Cloudflare DNS](Cloudflare%20DNS.png)
-![Actions](Actions%20Green%20Tick.png)
-![GitHub Secrets](GitHub%20Secrets%20page.png)
+
+![Live Website](./screenshorts/live-website.png)
+![S3 Bucket](./screenshorts/s3-bucket.png)
+![Cloudflare DNS](./screenshorts/cloudflare-dns.png)
+![Actions Green Tick](./screenshorts/actions-green-tick.png)
+![GitHub Secrets](./screenshorts/github-secrets-page.png)
 ## 💰 Cost
 - **0-12 Months:** 100% FREE
 - **After:** ~$0.50-$1/month for 10k visits
