@@ -31,15 +31,10 @@ Developer Push -> GitHub (main) -> Actions -> S3 Sync -> Cloudflare CNAME + Purg
 6. **Live:** Verified https://static.awsproject.in with SSL + auto-deploy
 
 ## 📸 Screenshots
-Add these images to your repo:
-
-1. **s3-bucket.png** - S3 static hosting enabled
-2. **cloudflare-dns.png** - CNAME with Proxy ON
-3. **cloudflare-ssl.png** - SSL Flexible + Always HTTPS
-4. **github-secrets.png** - 6 Secrets page
-5. **actions-green-tick.png** - Actions success
-6. **live-website.png** - Your final dark theme site (latest photo you sent!)
-
+![Live](screenshots/live-website.png)
+![S3](screenshots/s3-bucket.png)
+![Cloudflare](screenshots/cloudflare-dns.png)
+![Actions](screenshots/actions-green-tick.png)
 ## 💰 Cost
 - **0-12 Months:** 100% FREE
 - **After:** ~$0.50-$1/month for 10k visits
