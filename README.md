@@ -32,11 +32,12 @@ Developer Push -> GitHub (main) -> Actions -> S3 Sync -> Cloudflare CNAME + Purg
 
 ## 📸 Screenshots
 
-![Live Website](./screenshorts/live-website.png)
-![S3 Bucket](./screenshorts/s3-bucket.png)
-![Cloudflare DNS](./screenshorts/cloudflare-dns.png)
-![Actions Green Tick](./screenshorts/actions-green-tick.png)
-![GitHub Secrets](./screenshorts/github-secrets-page.png)
+<img src="screenshorts/live-website.png" width="100%">
+
+<img src="screenshorts/s3-bucket.png" width="400">
+<img src="screenshorts/cloudflare-dns.png" width="400">
+<img src="screenshorts/actions-green-tick.png" width="400">
+<img src="screenshorts/github-secrets-page.png" width="400">
 ## 💰 Cost
 - **0-12 Months:** 100% FREE
 - **After:** ~$0.50-$1/month for 10k visits
